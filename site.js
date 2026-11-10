@@ -9,7 +9,7 @@ const LINKS = {
   redDirtDirect: "",
   cactusDirect: "",
   // Where owners and guests reach Abide.
-  contact: "mailto:hello@stayabide.com",
+  contact: "https://ig.me/m/reddirtretreatlbk",
   instagram: "https://www.instagram.com/reddirtretreatlbk/",
 };
 

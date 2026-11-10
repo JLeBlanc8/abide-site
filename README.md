@@ -10,7 +10,7 @@ Preview on the Mac: `python3 -m http.server 4312` in this folder, then open http
 1. **Buy the domain.** stayabide.com was free on 2026-11-10 (about $10–15 a year at Cloudflare, Namecheap or Squarespace).
 2. ~~Airbnb listing links~~ done 2026-11-10 (in `site.js`).
 3. **Direct booking (optional, later).** If Uplisting's direct booking site is turned on, paste those links into `redDirtDirect` / `cactusDirect`; they replace the Airbnb links automatically.
-4. **Email.** The site says hello@stayabide.com. Set up free forwarding to your inbox (Cloudflare Email Routing does this), or change `contact` in `site.js`.
+4. **Email.** For now "Message us" and "Get a free estimate" open an Instagram DM to @reddirtretreatlbk. After the domain, set up hello@stayabide.com and change `contact` in `site.js`.
 5. **Host it free.** Cloudflare Pages or Netlify: drag this folder in, then connect the domain.
 6. **Mag reads his line** on the owners page before it goes up.
 
