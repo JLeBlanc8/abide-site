@@ -3,8 +3,8 @@
 // "coming soon" fallback text instead of a dead link.
 const LINKS = {
   // Paste each house's Airbnb listing link (airbnb.com/rooms/…).
-  redDirtBook: "",
-  cactusBook: "",
+  redDirtBook: "https://www.airbnb.com/rooms/1520579040984989896",
+  cactusBook: "https://www.airbnb.com/rooms/1771289829005750321",
   // Once Uplisting's direct booking site is on, put those links here and they win over Airbnb.
   redDirtDirect: "",
   cactusDirect: "",
